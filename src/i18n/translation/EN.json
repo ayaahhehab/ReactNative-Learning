@@ -1,0 +1,33 @@
+
+{  
+    "loading":"Loading...",
+    "login":"Login", 
+    "enter-email":"Enter E-mail / phone number",
+    "enter-password":"Enter Password",
+    "or":"___ Orr login with ___",
+    "new-user":"New User?" ,
+    "create-account":"Create an account",
+
+    "language":"Language",
+    "English":"English",
+    "Arabic":"عربي",
+    "profile":"Profile",
+    "edit-profile":"Edit Profile Pic",
+    "camera":"take a picture",
+    "gallery":"Choose from gallery",
+    "close":"close",
+    "posts":"Posts",
+    "followers":"Followers",
+    "following":"Following",
+    "follow": "Follow",
+    "message":"Message",
+    "list":"Frinds",
+
+    "email":"Email",
+    "name":"Name",
+    "username":"Username",
+    "company":"Company",
+    "address":"Address",
+    "phone":"Phone"
+
+}

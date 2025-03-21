@@ -1,0 +1,32 @@
+{
+    "loading":"جاري التحميل...",
+    "login":"تسجيل الدخول", 
+    "enter-email":"ادخل الايميل ",
+    "enter-password":"ادخل رقم السر",
+    "or":"او قم بتسجيل الدخول عبر",
+    "new-user":"هل انت مستخدم جديد؟ ",
+    "create-account":"انشئ حساب",
+
+
+    "language":"اللغه",
+    "English":"English",
+    "Arabic":"عربي",
+    "profile":"الحساب",
+    "edit-profile":"تعديل صورة المستخدم",
+    "camera":"التقط صورة",
+    "gallery":"اختر صورة من الملفات",
+    "close":"اغلاق",
+    "posts":"المنشورات",
+    "followers":"متابع",
+    "following":"اتابع",
+    "follow": "متابعه",
+    "message":"رساله",
+    "list": "الاصدقاء",
+
+    "email":"الايميل",
+    "name":"الاسم",
+    "username":"اسم المسخدم",
+    "company":"الشركة",
+    "address":"العنوان",
+    "phone":"الموبيل"
+}
