@@ -1,0 +1,17 @@
+{
+  "menu": [
+    {
+      "name": "Home",
+      "items": []
+    },
+    {
+      "name": "shop for women",
+      "items": ["Jackets", "Tops", "Shoes", "Coats"]
+    },
+    {
+      "name": "shop for men",
+      "items":["Jackets", "shirts", "Shoes", "Coats"]
+    }
+    ]
+  }
+  
